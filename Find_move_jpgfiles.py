@@ -11,7 +11,7 @@ target_folder = "D:/Files/DataSet/Pallet/Round1/tmp_images"
 
 # 遍历json文件夹中的文件
 for json_file in os.listdir(json_folder):
-    if json_file.endswith(".txt"):
+    if json_file.endswith(".json"):
         # 获取json文件名（不包含扩展名）
         json_name = os.path.splitext(json_file)[0]
         # 构造对应的jpg文件路径
