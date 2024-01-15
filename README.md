@@ -1,4 +1,4 @@
-# RealWaltz-Processing-and-Conversion-of-Dataset-and-Annotation-Formats
+# Processing-and-Conversion-of-Dataset-and-Annotation-Formats
 ## 代码主要内容：CV方向数据集及标注文件的处理
 ## 基本情况
 python = 3.7, 要运行全部代码，需要cv2, PIL, tqdm, numpy, json, shutil等库。
